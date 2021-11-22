@@ -1,5 +1,5 @@
-var buttonEl = docuemnt.querySelector("#save-task");
-var tasksToDoEl = docuemnt.querySelector("#tasks-to-do");
+var buttonEl = document.querySelector("#save-task");
+var tasksToDoEl = document.querySelector("#tasks-to-do");
 
 buttonEl.addEventListener("click", function() {
     var listItemEl = document.createElement("li");
