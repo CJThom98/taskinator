@@ -1,6 +1,3 @@
-var buttonEl = document.querySelector("#save-task");
-console.log(buttonEl)
-
 var buttonEl = docuemnt.querySelector("#save-task");
 var tasksToDoEl = docuemnt.querySelector("#tasks-to-do");
 
